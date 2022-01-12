@@ -1,7 +1,7 @@
 # val_moments
 
 > A Vue.js project
-
+![alt text](cybercut.png "Описание будет тут")
 ## Build Setup
 
 ``` bash
